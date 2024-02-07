@@ -5,7 +5,7 @@ h1{
 body{
   background: crimson;
 }
-p{
+h2, h3, h4{
   color: #fff;
 }
 h1:hover{
