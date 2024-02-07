@@ -9,7 +9,7 @@ p{
   color: #fff;
 }
 h1:hover{
-  color: blueviolet;
+  color: springgreen;
   text-decoration: underline;
-  zoom: 10px;
+  text-transform: uppercase;
 }
