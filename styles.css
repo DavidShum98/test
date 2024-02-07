@@ -11,4 +11,5 @@ p{
 h1:hover{
   color: blueviolet;
   text-decoration: underline;
+  zoom: 10px;
 }
