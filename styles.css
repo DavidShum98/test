@@ -7,5 +7,8 @@ body{
 }
 p{
   color: #fff;
-
+}
+h1:hover{
+  color: blueviolet;
+  text-decoration: underline;
 }
